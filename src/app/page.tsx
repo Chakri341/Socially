@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { ModeToggle } from "@/components/ui/modeToggle";
+import { ModeToggle } from "@/components/modeToggle";
 import {
   SignedIn,
   SignedOut,
